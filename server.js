@@ -1,7 +1,7 @@
 var express = require('express');
 var ts = require('./timestamp');
 var path = require('path');
-var app = express.createServer();
+var app = express();
 
 app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname + '/index.html'));
