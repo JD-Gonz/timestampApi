@@ -5,5 +5,5 @@ Pass a string as a parameter, and it will check to see whether that string conta
 - If it does not contain a date or Unix timestamp, it returns null for those properties.
 
 ```
- API: <https://jdg-timestamp.herokuapp.com/>
+ API: https://jdg-timestamp.herokuapp.com/
 ```
