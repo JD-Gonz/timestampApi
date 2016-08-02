@@ -4,7 +4,6 @@ var naturalRegex = /(January|February|March|April|May|June|July|August|September
 
 module.exports = {
   print: function (timestamp) {
-    console.log(timestamp);
     var result = {};
     if (unixRegex.test(timestamp) && timestamp  <= Math.floor(new Date() / 1000)) {
        result.unix = timestamp;
