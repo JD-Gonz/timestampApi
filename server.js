@@ -3,6 +3,8 @@ var ts = require('./timestamp');
 var path = require('path');
 var app = express();
 
+app.set('json spaces', 4);
+
 app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname + '/index.html'));
 });

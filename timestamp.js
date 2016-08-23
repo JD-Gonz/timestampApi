@@ -15,6 +15,6 @@ module.exports = {
       result.unix = null;
        result.natural = null;
     }
-    return JSON.stringify(result);
+    return result;
   }
 };
