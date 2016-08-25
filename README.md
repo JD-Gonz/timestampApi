@@ -1,4 +1,4 @@
-# timestamp_api
+# Timestamp Microservice
 
 Pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date.
 - If it does, it returns both the Unix timestamp and the natural language form of that date.
