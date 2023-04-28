@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dgonz001/timestamp_api.git"
+    "url": "git+https://github.com/jd-gonz/timestamp_api.git"
   },
   "bugs": {
-    "url": "https://github.com/dgonz001/timestamp_api/issues"
+    "url": "https://github.com/jd-gonz/timestamp_api/issues"
   },
-  "homepage": "https://github.com/dgonz001/timestamp_api#readme"
+  "homepage": "https://github.com/jd-gonz/timestamp_api#readme"
 }
